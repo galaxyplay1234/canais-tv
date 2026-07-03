@@ -30,6 +30,12 @@
     "url": "https://rdcanais.com/globorj"
   },
   {
+    "name": "Globo SP redecanais",
+    "abrir": "nao",
+    "tipo": "player",
+    "url": "https://redecanaistv.win/player3/ch.php?canal=bobosp"
+  },
+  {
     "name": "SBT",
     "abrir": "sim",
     "tipo": "m3u8",
@@ -46,12 +52,6 @@
     "abrir": "nao",
     "tipo": "player",
     "url": "https://ww2.embedtv.lat/globorj"
-  },
-  {
-    "name": "Globo SP redecanais",
-    "abrir": "nao",
-    "tipo": "player",
-    "url": "https://redecanaistv.win/player3/ch.php?canal=bobosp"
   }
 ]
 
