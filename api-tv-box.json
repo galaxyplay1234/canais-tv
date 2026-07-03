@@ -1,5 +1,11 @@
 {
   "tipo": "player",
+  "url": "https://12embeddecanais.xyz/globorj/"
+}
+
+
+{
+  "tipo": "player",
   "url": "https://rdcanais.com/globorj"
 }
 
@@ -20,11 +26,6 @@
   "url": "https://sinalpublicoetv.vercel.app/?id=globorj"
 }
 
-
-{
-  "tipo": "player",
-  "url": "https://12embeddecanais.xyz/globorj/"
-}
 
 
 {
