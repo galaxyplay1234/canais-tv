@@ -6,6 +6,12 @@
     "url": "https://12embeddecanais.xyz/globorj/"
   },
   {
+    "name": "Globo SP meuplayer",
+    "abrir": "sim",
+    "tipo": "player",
+    "url": "https://meuplayeronlinehd.com/myplay/watch.html?id=globosp"
+  },
+  {
     "name": "Globo SP reidoscanais",
     "abrir": "nao",
     "tipo": "player",
@@ -16,12 +22,6 @@
     "abrir": "nao",
     "tipo": "player",
     "url": "https://v3.rde.lat/globorj"
-  },
-  {
-    "name": "Globo SP meuplayer",
-    "abrir": "sim",
-    "tipo": "player",
-    "url": "https://meuplayeronlinehd.com/myplay/watch.html?id=globosp"
   },
   {
     "name": "Globo RJ reidoscanais",
@@ -46,12 +46,6 @@
     "abrir": "nao",
     "tipo": "player",
     "url": "https://ww2.embedtv.lat/globorj"
-  },
-  {
-    "name": "Caze 2 Sporturbo",
-    "abrir": "sim",
-    "tipo": "player",
-    "url": "https://links-diretos.netlify.app/caze1-sporturbo.html"
   },
   {
     "name": "Globo SP redecanais",
