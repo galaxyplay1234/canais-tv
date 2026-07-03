@@ -19,7 +19,7 @@
   },
   {
     "name": "Globo RJ embeddecanais",
-    "abrir": "sim",
+    "abrir": "nao",
     "tipo": "player",
     "url": "https://12embeddecanais.xyz/globorj/"
   },
