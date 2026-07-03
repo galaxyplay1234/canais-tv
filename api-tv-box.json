@@ -25,13 +25,13 @@
   },
   {
     "name": "Globo RJ sinalpublico",
-    "abrir": "sim",
+    "abrir": "nao",
     "tipo": "player",
     "url": "https://sinalpublicoetv.vercel.app/?id=globorj"
   },
   {
     "name": "Globo RJ embedtv",
-    "abrir": "sim",
+    "abrir": "nao",
     "tipo": "player",
     "url": "https://ww2.embedtv.lat/globorj"
   },
