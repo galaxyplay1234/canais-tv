@@ -1,11 +1,21 @@
 {
-  "name": "Globo SP",
+  "name": "Espn redecanais",
+  "abrir": "nao",
+  "tipo": "player",
+  "url": "https://redecanaistv.win/player3/ch.php?canal=espn"
+}
+
+
+{
+  "name": "Globo SP reidoscanais",
   "abrir": "nao",
   "tipo": "player",
   "url": "https://rdcanais.com/globosp"
 }
 
 {
+  "name": "Globo RJ reidosembed",
+  "abrir": "nao",
   "tipo": "player",
   "url": "https://v3.rde.lat/globorj"
 }
