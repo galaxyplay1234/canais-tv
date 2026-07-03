@@ -1,9 +1,9 @@
 [
   {
-    "name": "Globo Rio redecanais",
+    "name": "Globo SP redecanais",
     "abrir": "nao",
     "tipo": "player",
-    "url": "https://redecanaistv.win/player3/ch.php?canal=globorio"
+    "url": "https://redecanaistv.win/player3/ch.php?canal=globosp"
   },
   {
     "name": "Globo SP reidoscanais",
