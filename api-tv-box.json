@@ -18,6 +18,12 @@
     "url": "https://v3.rde.lat/globorj"
   },
   {
+    "name": "Globo SP meuplayer",
+    "abrir": "sim",
+    "tipo": "player",
+    "url": "https://meuplayeronlinehd.com/myplay/watch.html?id=globosp"
+  },
+  {
     "name": "Globo RJ reidoscanais",
     "abrir": "nao",
     "tipo": "player",
