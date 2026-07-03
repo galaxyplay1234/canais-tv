@@ -6,6 +6,12 @@
 
 {
   "tipo": "player",
+  "url": "https://rdcanais.com/globosp"
+}
+
+
+{
+  "tipo": "player",
   "url": "https://redecanaistv.win/player3/ch.php?canal=espn"
 }
 
