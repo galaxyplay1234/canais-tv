@@ -24,6 +24,12 @@
     "url": "https://rdcanais.com/globorj"
   },
   {
+    "name": "SBT",
+    "abrir": "nao",
+    "tipo": "m3u8",
+    "url": "https://aovivo.maissbt.com/indexMobile.m3u8"
+  },
+  {
     "name": "Globo RJ sinalpublico",
     "abrir": "nao",
     "tipo": "player",
