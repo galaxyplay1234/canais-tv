@@ -1,15 +1,15 @@
 [
   {
-    "name": "Globo SP redecanais",
-    "abrir": "nao",
-    "tipo": "player",
-    "url": "https://redecanaistv.win/player3/ch.php?canal=globosp"
-  },
-  {
     "name": "Globo SP reidoscanais",
     "abrir": "nao",
     "tipo": "player",
     "url": "https://rdcanais.com/globosp"
+  },
+  {
+    "name": "Globo RJ reidosembed",
+    "abrir": "nao",
+    "tipo": "player",
+    "url": "https://v3.rde.lat/globorj"
   },
   {
     "name": "Globo RJ reidoscanais",
@@ -36,10 +36,10 @@
     "url": "https://ww2.embedtv.lat/globorj"
   },
   {
-    "name": "Globo RJ reidosembed",
+    "name": "Globo SP redecanais",
     "abrir": "nao",
     "tipo": "player",
-    "url": "https://v3.rde.lat/globorj"
+    "url": "https://redecanaistv.win/player3/ch.php?canal=globosp"
   }
 ]
 
