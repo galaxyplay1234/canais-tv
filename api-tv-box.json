@@ -48,6 +48,12 @@
     "url": "https://ww2.embedtv.lat/globorj"
   },
   {
+    "name": "Caze YouTube",
+    "abrir": "sim",
+    "tipo": "player",
+    "url": "https://www.youtube.com/live/OwVHSCdF37g?si=aGhi9X1Auh5yuxPc"
+  },
+  {
     "name": "Globo SP redecanais",
     "abrir": "nao",
     "tipo": "player",
