@@ -1,5 +1,11 @@
 {
   "tipo": "player",
+  "url": "https://sinalpublicoetv.vercel.app/?id=globorj"
+}
+
+
+{
+  "tipo": "player",
   "url": "https://12embeddecanais.xyz/globorj/"
 }
 
