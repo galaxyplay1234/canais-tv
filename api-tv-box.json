@@ -37,7 +37,7 @@
   },
   {
     "name": "Globo SP redecanais",
-    "abrir": "nao",
+    "abrir": "sim",
     "tipo": "player",
     "url": "https://redecanaistv.win/player3/ch.php?canal=bobosp"
   }
