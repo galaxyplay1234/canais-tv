@@ -12,6 +12,30 @@
     "url": "https://rdcanais.com/globosp"
   },
   {
+    "name": "Globo RJ reidoscanais",
+    "abrir": "nao",
+    "tipo": "player",
+    "url": "https://rdcanais.com/globorj"
+  },
+  {
+    "name": "Globo RJ embeddecanais",
+    "abrir": "sim",
+    "tipo": "player",
+    "url": "https://12embeddecanais.xyz/globorj/"
+  },
+  {
+    "name": "Globo RJ sinalpublico",
+    "abrir": "nao",
+    "tipo": "player",
+    "url": "https://sinalpublicoetv.vercel.app/?id=globorj"
+  },
+  {
+    "name": "Globo RJ embedtv",
+    "abrir": "nao",
+    "tipo": "player",
+    "url": "https://ww2.embedtv.lat/globorj"
+  },
+  {
     "name": "Globo RJ reidosembed",
     "abrir": "nao",
     "tipo": "player",
@@ -20,36 +44,3 @@
 ]
 
 
-{
-  "tipo": "player",
-  "url": "https://rdcanais.com/globorj"
-}
-
-
-{
-  "tipo": "player",
-  "url": "https://12embeddecanais.xyz/globorj/"
-}
-
-
-
-
-
-
-
-{
-  "tipo": "player",
-  "url": "https://redecanaistv.win/player3/ch.php?canal=espn"
-}
-
-{
-  "tipo": "player",
-  "url": "https://sinalpublicoetv.vercel.app/?id=globorj"
-}
-
-
-
-{
-  "tipo": "player",
-  "url": "https://ww2.embedtv.lat/caze1"
-}
