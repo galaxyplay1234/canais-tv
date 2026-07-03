@@ -1,5 +1,11 @@
 [
   {
+    "name": "Globo RJ embeddecanais",
+    "abrir": "sim",
+    "tipo": "player",
+    "url": "https://12embeddecanais.xyz/globorj/"
+  },
+  {
     "name": "Globo SP reidoscanais",
     "abrir": "nao",
     "tipo": "player",
@@ -16,12 +22,6 @@
     "abrir": "nao",
     "tipo": "player",
     "url": "https://rdcanais.com/globorj"
-  },
-  {
-    "name": "Globo RJ embeddecanais",
-    "abrir": "nao",
-    "tipo": "player",
-    "url": "https://12embeddecanais.xyz/globorj/"
   },
   {
     "name": "Globo RJ sinalpublico",
