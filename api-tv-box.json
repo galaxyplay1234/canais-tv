@@ -25,19 +25,19 @@
   },
   {
     "name": "Globo RJ sinalpublico",
-    "abrir": "nao",
+    "abrir": "sim",
     "tipo": "player",
     "url": "https://sinalpublicoetv.vercel.app/?id=globorj"
   },
   {
     "name": "Globo RJ embedtv",
-    "abrir": "nao",
+    "abrir": "sim",
     "tipo": "player",
     "url": "https://ww2.embedtv.lat/globorj"
   },
   {
     "name": "Globo SP redecanais",
-    "abrir": "sim",
+    "abrir": "nao",
     "tipo": "player",
     "url": "https://redecanaistv.win/player3/ch.php?canal=bobosp"
   }
