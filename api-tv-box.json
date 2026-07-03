@@ -1,4 +1,6 @@
 {
+  "name": "Globo SP",
+  "abrir": "nao",
   "tipo": "player",
   "url": "https://rdcanais.com/globosp"
 }
