@@ -52,6 +52,12 @@
     "abrir": "nao",
     "tipo": "player",
     "url": "https://ww2.embedtv.lat/globorj"
+  },
+  {
+    "name": "Disney 1 meuplayer",
+    "abrir": "nao",
+    "tipo": "player",
+    "url": "https://meuplayeronlinehd.com/myplay/watch.html?id=ds1"
   }
 ]
 
