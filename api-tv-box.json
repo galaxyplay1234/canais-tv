@@ -6,22 +6,10 @@
     "url": "https://3007.cdnembedcanais.xyz/globorj/"
   },
   {
-    "name": "Globo SP meuplayer",
-    "abrir": "sim",
-    "tipo": "player",
-    "url": "https://meuplayeronlinehd.com/myplay/watch.html?id=globosp"
-  },
-  {
     "name": "Globo SP reidoscanais",
     "abrir": "nao",
     "tipo": "player",
     "url": "https://rdcanais.net/globosp"
-  },
-  {
-    "name": "Globo RJ reidosembed",
-    "abrir": "nao",
-    "tipo": "player",
-    "url": "https://v4.rde.lat/globorj"
   },
   {
     "name": "Globo RJ reidoscanais",
@@ -52,6 +40,18 @@
     "abrir": "nao",
     "tipo": "player",
     "url": "https://ww4.embedtv.lat/globorj"
+  },
+{
+    "name": "Globo SP meuplayer",
+    "abrir": "sim",
+    "tipo": "player",
+    "url": "https://meuplayeronlinehd.com/myplay/watch.html?id=globosp"
+  },
+  {
+    "name": "Globo RJ reidosembed",
+    "abrir": "nao",
+    "tipo": "player",
+    "url": "https://v4.rde.lat/globorj"
   },
   {
     "name": "Disney 1 meuplayer",
