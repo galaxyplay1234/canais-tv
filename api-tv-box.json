@@ -15,7 +15,7 @@
     "name": "Globo SP reidoscanais",
     "abrir": "nao",
     "tipo": "player",
-    "url": "https://rdcanais.com/globosp"
+    "url": "https://rdcanais.net/globosp"
   },
   {
     "name": "Globo RJ reidosembed",
@@ -27,7 +27,7 @@
     "name": "Globo RJ reidoscanais",
     "abrir": "nao",
     "tipo": "player",
-    "url": "https://rdcanais.com/globorj"
+    "url": "https://rdcanais.net/globorj"
   },
   {
     "name": "Globo SP redecanais",
