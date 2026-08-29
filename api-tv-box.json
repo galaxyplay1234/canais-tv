@@ -1,10 +1,5 @@
 [
-  {
-    "name": "Globo RJ embeddecanais",
-    "abrir": "sim",
-    "tipo": "player",
-    "url": "https://3007.cdnembedcanais.xyz/globorj/"
-  },
+  
   {
     "name": "Globo SP reidoscanais",
     "abrir": "nao",
@@ -52,6 +47,13 @@
     "abrir": "nao",
     "tipo": "player",
     "url": "https://v2.rdse.site/globorj"
+  },
+  
+  {
+    "name": "Globo RJ embeddecanais",
+    "abrir": "sim",
+    "tipo": "player",
+    "url": "https://3007.cdnembedcanais.xyz/globorj/"
   },
   {
     "name": "Disney 1 meuplayer",
