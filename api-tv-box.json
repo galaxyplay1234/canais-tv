@@ -39,7 +39,7 @@
 {
     "name": "Globo SP meuplayer",
     "abrir": "sim",
-    "tipo": "m3u8",
+    "tipo": "player",
     "url": "https://meuplayeronlinehd.com/myplay/watch.html?id=globosp"
   },
   {
