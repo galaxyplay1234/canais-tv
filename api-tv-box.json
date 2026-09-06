@@ -2,7 +2,7 @@
   
   {
     "name": "Globo SP reidoscanais",
-    "abrir": "nao",
+    "abrir": "sim",
     "tipo": "player",
     "url": "https://rdcanais.net/globosp"
   },
