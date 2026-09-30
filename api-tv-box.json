@@ -58,8 +58,8 @@
   {
     "name": "Disney 1 meuplayer",
     "abrir": "nao",
-    "tipo": "player",
-    "url": "https://meuplayeronlinehd.com/myplay/watch.html?id=ds1"
+    "tipo": "m3u8",
+    "url": "https://s10-t.97bf1.com/hls/kdBljPFHZyIphmwCQvclS81DkjNhFQCG/index_2592x1080.m3u8?token=9f9f2607d11cd8d15378439a153658bd-1790815542-45.125.65.204-cf6da1cbfd1ca7e7e0aa768d122a3ed3c772e30de174201eaf8d57bc59e9628b"
   }
 ]
 
